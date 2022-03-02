@@ -9,17 +9,13 @@ img {
 }
 
 /* Mobile Styles */
-header {
-    background-image: url('images/moonSurface.jpg');
-}
+
 header h1 {
     color: #F9D5A3;
     text-align: center;
     text-shadow: 3px 3px 3px#BF9D73;
 }
-footer {
-    background-image: url('images/moonSurface.jpg');
-}
+
 
 
 /* Tablet Styles */
