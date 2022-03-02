@@ -1,0 +1,27 @@
+/* Global Styles */
+body {
+    background-color: #171B1E;    
+}
+img {
+    display: block;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+/* Mobile Styles */
+header {
+    background-image: url('images/moonSurface.jpg');
+}
+header h1 {
+    color: #F9D5A3;
+    text-align: center;
+    text-shadow: 3px 3px 3px#BF9D73;
+}
+footer {
+    background-image: url('images/moonSurface.jpg');
+}
+
+
+/* Tablet Styles */
+
+/* Desktop Styles */
